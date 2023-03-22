@@ -1,5 +1,24 @@
 #perro {
   display: block;
-  margin-left: auto;
-  margin-right: auto;
+  margin-left: 200px;
+  margin-right: 200px;
+  width: 200px;
+  height: 200px;
+  filter: drop-shadow(5px 5px yellow);
+}
+#huron {
+  display: block;
+  margin-left: 5px;
+  margin-right: 200px;
+  width: 200px;
+  height: 200px;
+  filter: drop-shadow(10px 10px blue);
+}
+#raton {
+  display: block;
+  margin-left: 200px;
+  margin-right: 5px;
+  width: 200px;
+  height: 200px;
+  filter: drop-shadow(10px 10px pink);
 }
